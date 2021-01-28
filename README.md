@@ -14,8 +14,6 @@
 - **Alethiometer** mobile web app
     + *thin-slicing scientific communications on mobile* (RDF-based Tinder for Science)
 
-The organisation of the scientific enterprise is seizing up: competition for high-impact publication, problems with h-index and peer review, and rich-get-richer effects in distribution of funds, are combining with replication problems, administrative and PhD overproduction, corporatisation of the academy, and the rise of in-silico science.
-
 #### References
 
 - This work extends Stephen Friend et al.'s [Social Interactomes for Enabling Research Communities](https://cancerdiscovery.aacrjournals.org/content/4/11/1265), conducting several experiments between Helsinki, Stockholm, and Uppsala, in collaboration with [SciLifeLab](https://www.scilifelab.se/)
