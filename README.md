@@ -16,7 +16,7 @@
 
 #### References
 
-- This work extends Stephen Friend et al.'s [Social Interactomes for Enabling Research Communities](https://cancerdiscovery.aacrjournals.org/content/4/11/1265), conducting several experiments between Helsinki, Stockholm, and Uppsala, in collaboration with [SciLifeLab](https://www.scilifelab.se/)
+- This work extends Stephen Friend et al.'s [Social Interactomes for Enabling Research Communities](https://cancerdiscovery.aacrjournals.org/content/4/11/1265)
 - This work extends foundational machine learning work done in Finland by the [Kohonen](https://en.wikipedia.org/wiki/Teuvo_Kohonen) lab and the [Centre for Consumer Society Research](https://www.helsinki.fi/en/researchgroups/centre-for-consumer-society-research) at UHel
 - This work extends and is heavily inspired by the work of:
     +  [Ruben Verborgh](https://ruben.verborgh.org/) and colleagues (pre-Solid)
